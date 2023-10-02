@@ -12,5 +12,4 @@ if(isset($_POST['nama']) && isset($_POST['dari'])){
     }
 
 }
-
 ?>
